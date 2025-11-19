@@ -8,6 +8,6 @@
 # user = int(input("Введіть 2 числа\nПерше число: "))
 # user2 = int(input("Друге число: "))
 # print("Ці числа утворюють множину:", {user, user2})
-#4
+#44
 # userName = str(input("Enter your name: "))
 # print("Привіт, " + userName)
