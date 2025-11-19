@@ -27,7 +27,7 @@ Window4 ["bg"] = "yellow"
 Window4.resizable(False, False)
 Window4.title("Вікно №4")
 Window4 = mainloop()
-#lekcia 5.4 
+#lekcia 5.4 5
 Window5 = Tk()
 Window5.title("Вікно №5")
 Window5.geometry("700x300+100+0")

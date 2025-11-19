@@ -30,6 +30,7 @@ Window2.mainloop()
 
 
 def piska(event):
+    
     Window3.geometry("560x435")
     Window3 ["bg"] = "yellow"
     messagebox.showinfo("Виконано","Зміни застосовані!")
